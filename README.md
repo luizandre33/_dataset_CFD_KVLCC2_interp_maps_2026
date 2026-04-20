@@ -37,7 +37,7 @@ The maps are defined in a **ship-fixed reference frame**:
 
 ## Drift Angles
 
-Direct CFD simulations were performed for drift angles: 0°, −7.5°, −15°, −22.5°, −30°, −45°, −60°, −75°, −90°.
+IDDES CFD simulations were performed for drift angles: 0°, −7.5°, −15°, −22.5°, −30°, −45°, −60°, −75°, −90°.
 
 Additional angles were obtained by mirroring:
 - **0° to +90°**: mirrored about the vessel x-axis (symmetric).

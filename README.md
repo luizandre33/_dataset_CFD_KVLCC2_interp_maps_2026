@@ -6,14 +6,13 @@ Time-averaged CFD velocity maps of the distorted flow around a full-scale KVLCC2
 
 If you use this dataset or code, please cite:
 
-> Schiaveto Neto, L.A., Rosman, P.C.C., Tannuri, E.A. (2026). "CFD investigation of KVLCC2 flow distortion with IDDES at different drift angles and its impact on tugboat current loads in ship maneuvering simulations." 
-Associated manuscript under review (2026).
+Schiaveto Neto, L.A., Colonna Rosman, P.C., Tannuri, E.A., 2026. CFD investi-gation of KVLCC2 flow distortion with IDDES at different drift angles and its impact on tugboat loads in ship maneuvering simulations. Ocean Engineering 360, 125833. https://doi.org/10.1016/j.oceaneng.2026.125833
 
 
 
 ## Description
 
-Ship maneuvering simulators commonly represent currents as undisturbed fields, neglecting the flow distortion caused by nearby vessels. This dataset provides time-averaged velocity maps around a KVLCC2 tanker hull that can be used to correct the ambient current experienced by tugboats operating near a large vessel.
+>Ship maneuvering simulators commonly represent currents as undisturbed fields, neglecting the flow distortion caused by nearby vessels. This dataset provides time-averaged velocity maps around a KVLCC2 tanker hull that can be used to correct the ambient current experienced by tugboats operating near a large vessel.
 
 The CFD simulations were performed using the IDDES turbulence model (Star-CCM+) for a full-scale KVLCC2 (Lpp = 320 m, B = 58 m, T = 20.8 m) in shallow water (h/T ≈ 1.2), with an incoming current of 1 m/s. The maps are time-averaged over 750 s of simulation (from t = 250 s to t = 1000 s).
 
